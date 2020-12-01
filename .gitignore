@@ -5,9 +5,9 @@
 *.code-workspace
 
 # Vynechání vygenerovaných zadání
-*.pdf
-*.docx
-*.html
+/*.pdf
+/*.docx
+/*.html
 
 # Vynechání nagenerovaných filů
 /Zadani.md
