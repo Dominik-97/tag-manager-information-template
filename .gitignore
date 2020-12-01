@@ -5,3 +5,8 @@
 *.pdf
 *.docx
 *.html
+
+# Vynechání nagenerovaných filů
+/Zadani.md
+/Zadani-vyplneno.md
+/Zadani-bez-eventu.md
