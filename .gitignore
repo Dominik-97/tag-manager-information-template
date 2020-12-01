@@ -1,0 +1,7 @@
+# Vynechání Visual studio code workspacu
+*.code-workspace
+
+# Vynechání vygenerovaných zadání
+*.pdf
+*.docx
+*.html
