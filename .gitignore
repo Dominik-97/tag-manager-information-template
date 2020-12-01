@@ -1,3 +1,6 @@
+# Vynechání .DS_Store
+.DS_Store
+
 # Vynechání Visual studio code workspacu
 *.code-workspace
 
